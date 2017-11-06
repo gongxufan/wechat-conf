@@ -47,7 +47,7 @@
             src="<%=request.getContextPath()%>/resources/images/blocks.gif" width="20" height="20" align="absmiddle"/>--%> 微信公众平台开发模式配置管理系统</span>
 </div>
 <div region="south" split="false" style="height: 30px; background: #D2E0F2; ">
-    <div class="footer">北京数字政通</div>
+    <div class="footer">@仅供学习和参考，严禁商业用途</div>
 </div>
 <div region="west" split="true" title="导航菜单" style="width:120px;" id="west">
     <div class="easyui-accordion" fit="true" border="false">
